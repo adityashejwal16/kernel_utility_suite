@@ -44,7 +44,6 @@ This project includes **13 custom commands**:
 | `wcX` | Count words/lines |
 | `echoX` | Print text |
 
-> ⚠️ Replace/add actual command names if different.
 
 ---
 
