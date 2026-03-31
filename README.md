@@ -81,3 +81,35 @@ Kernel_Utility_Suite/
 ├── echoX.c
 <br>
 └── README.md
+
+---
+
+
+## ▶️ How to Compile
+
+### Compile each utility separately:
+
+gcc catx.c -o myexe
+<br>
+gcc cdx.c -o myexe
+<br>
+gcc lsX.c -o myexe
+
+---
+
+## ▶️ How to Run
+./myexe
+
+---
+
+## 📌 Example Usage
+### 🔹 View File
+./catx demo.txt
+
+### 🔹 Change Directory
+./cdx /home/user/Documents
+
+
+
+
+
