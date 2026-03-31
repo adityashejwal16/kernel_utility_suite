@@ -110,7 +110,7 @@ gcc lsX.c -o myexe
 
 ---
 
-##❗ Error Handling
+## ❗ Error Handling
 •  Invalid arguments
 <br>
 •  File not found
