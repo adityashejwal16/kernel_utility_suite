@@ -51,18 +51,33 @@ This project includes **13 custom commands**:
 ## 📂 Project Structure
 
 Kernel_Utility_Suite/
+<br>
 │
+<br>
 ├── catx.c
+<br>
 ├── cdx.c
+<br>
 ├── lsX.c
+<br>
 ├── cpX.c
+<br>
 ├── mvX.c
+<br>
 ├── rmX.c
+<br>
 ├── pwdX.c
+<br>
 ├── touchX.c
+<br>
 ├── statX.c
+<br>
 ├── headX.c
+<br>
 ├── tailX.c
+<br>
 ├── wcX.c
+<br>
 ├── echoX.c
+<br>
 └── README.md
