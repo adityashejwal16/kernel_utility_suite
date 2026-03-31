@@ -109,7 +109,40 @@ gcc lsX.c -o myexe
 ### 🔹 Change Directory
 ./cdx /home/user/Documents
 
+---
 
+##❗ Error Handling
+•  Invalid arguments
+<br>
+•  File not found
+<br
+•  Permission issues
+<br>
+•  Invalid directory paths
+
+
+## 🚀 Future Enhancements
+•  Combine all commands into a single shell
+<br>
+•  Add support for flags (-l, -a, etc.)
+<br>
+•  Improve performance and memory handling
+<br>
+•  Add logging system
+
+## 🧠 Learning Outcomes
+•  Deep understanding of Linux system calls
+<br>
+•  File descriptor management
+<br>
+•  Directory handling using kernel APIs
+<br>
+•  Building real-world OS utilities
+
+
+# 👨‍💻 Author
+
+## Aditya Dipak Shejwal
 
 
 
