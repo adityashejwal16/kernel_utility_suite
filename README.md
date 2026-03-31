@@ -114,7 +114,7 @@ gcc lsX.c -o myexe
 •  Invalid arguments
 <br>
 •  File not found
-<br
+<br>
 •  Permission issues
 <br>
 •  Invalid directory paths
